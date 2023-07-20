@@ -1,0 +1,26 @@
+{
+  "budgets": [
+    {
+      "name": "entertainment",
+      "amount": 200,
+      "expenses": [
+        {
+          "expenseName": "ent1",
+          "expenseAmount": 17,
+          "date": "01-02-2023"
+        },
+        {
+          "expenseName": "ent2",
+          "expenseAmount": 30.75,
+          "date": "01-03-2023"
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "amount": 50.50,
+      "expenses": []
+    }
+  ],
+  "name": "Student account"
+}
